@@ -2,7 +2,7 @@
 
 **Informatics Student -> Full-Stack Software Engineer**
 
-I am an Informatics student based in the Netherlands, studying full-stack development as my second (final) year of Associate Degree. I enjoy building structured, scalable applications and working on interactive frontends. Since being a teenager I always felt drive towards front-end, building my very first blogspot blogs with 10k+ lines of pure HTML. Long live life without genAI. 
+I am an Informatics student based in the Netherlands, studying full-stack development as my second (final) year of the Associate Degree at Avans. I enjoy building structured, scalable applications and working on interactive frontends. Since being a teenager I always felt drive in towards front-end, building my very first blogspot blogs with 10k+ lines of pure HTML. Long live life without genAI. 
 
 ---
 
@@ -24,7 +24,9 @@ I am an Informatics student based in the Netherlands, studying full-stack develo
 
 **Experience**
 
-*   **Sales - Retail - Logistics** 
+*   **Sales**
+*   ** Retail**
+*   **Logistics**
 
 ---
 
