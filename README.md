@@ -25,7 +25,7 @@ I am an Informatics student based in the Netherlands, studying full-stack develo
 **Experience**
 
 *   **Sales**
-*   ** Retail**
+*   **Retail**
 *   **Logistics**
 
 ---
