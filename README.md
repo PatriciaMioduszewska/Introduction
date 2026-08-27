@@ -6,7 +6,7 @@ I am an Informatics student based in the Netherlands, studying full-stack develo
 
 ---
 
-**🔧 Technical Stack**
+**Technical Stack**
 *   **Languages I've worked in:** HTML, CSS, Java, JavaScript, Kotlin, SQL, C++ 
 *   **Frameworks & Tools:** Jetpack Compose, JavaFX, Node-RED
 *   **Databases:** MySQL, Oracle SQL
