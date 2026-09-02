@@ -1,4 +1,4 @@
-# Hi, I'm Patrycja Evers - Mioduszewska.
+# Hi, I'm Patrycja Evers
 
 **Informatics Student -> Full-Stack Developer**
 
